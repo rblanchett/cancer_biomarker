@@ -3,12 +3,7 @@ Relevant code for epigenetic biomarker identification used for this publication:
 
 Please see the paper (DOI above) for specifics, including the list of homeobox genes used, the genome assemblies, etc. 
 
-The order in which the section shoudl be run is:
-
-1. BRCA_DMR_Analysis
-2. Summary
-3. Homeobox_filter
-4. Homeobox_DMR_overlap
+The order in which the scripts should be run in is specified by their numerical order. 
 
 The TCGA BRCA dataset has been used as an example, but the study used 16 datasets from TCGA
 
